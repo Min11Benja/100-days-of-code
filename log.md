@@ -1,30 +1,50 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: July 02, 2017 
+##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
+**Objective**
+Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
+  So basiclly a landing page, a blog, an about me page, and a contact me page. 
+  
+**Tme**:
+Start: 5:30 pm
+End: 6:30 pm
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
+Outlined the basic functions of the landing page, the blog page, the contacte me page, the about me page, and the basic goal of the web page. 
+Made a map of the webpage, and its sub web pages. 
+Made a sketch of the landing page, of the blog page, and the about me page. 
+Made the Copy (text) of the first part of the landing page. (H1,H2, CTA, P) 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Improve:** 
 
-**Link to work:** [Calculator App](http://www.example.com)
+*STOP*
+I got to stop adding features to this project or else I wont ever finish it.
+Stop wasting time looking at other stuff. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+*START*
+coding the landing page asap.
+to-do list 
+timing myself 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+*REPEAT*
+loging the progress here on #100DaysOfCode and sharing it on twitter. 
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** 
+Planing things out from the start really let me separate the must haves from the would be cool to have. I tried to skim down all the would be cools and just stick to making the must haves firts. I did this all on paper and uploaded the pictures to IMG I leave the links below. I have to concentrate on what is esential to the MISSION (Reach mastery and share what Ive done) I 
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+
+I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+
+**Link to work:** [min11benja sketches, text copy and webpage map img]
+min11benja Landing page sketch
+https://www.dropbox.com/s/w38dmu5j1u7k564/IMG_20170602_173842068.jpg?dl=0
+
+min11benja copy of first section
+https://www.dropbox.com/s/vrswv9mfmzn5qhl/IMG_20170602_173920091.jpg?dl=0
+
+min11benja webpage map
+https://www.dropbox.com/s/0eg9f5qb1725qhm/IMG_20170602_173933595.jpg?dl=0
 
 
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+---------------------------------------------------------------------------------------------------------------------------------------
