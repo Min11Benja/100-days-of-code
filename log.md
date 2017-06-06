@@ -68,16 +68,18 @@ I uploaded the changes, they are live at www.min11benja.com
 **Improve:** 
 
 *STOP*
-Trying to copy other webpages
+Trying to pixel perfect, copy other webpages styles
 
 *START*
 
 to-do list 
 timing myself 
+coding the top part of landing page
 
 *REPEAT*
 loging the progress here on #100DaysOfCode and sharing it on twitter. 
-coding the landing page asap.
+coding at least 1 Hour a day on projects
+Keep learining new things (How to duplicate and coment out sections with quick comands, on ATOM CMD + SHIFT + 7 / CMD + SHIFT + D)
 
 **Thoughts:** 
 I wasted alot of time trying to copy the layout of a landing page i found. I used Inspect to try and copy the code and style, this was not sucessfull and took half of my time. I hurried up doing the rest before time was out. 
@@ -85,3 +87,39 @@ So stop trying to make it perfect
 
 **Link to work:** 
 www.min11benja.com
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 3: July 05, 2017 
+##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
+**Objective**
+Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
+  So basiclly a landing page, a blog, an about me page, and a contact me page. 
+  
+**Tme**:
+Start: 9:00 pm
+End: 10:30 pm
+
+**Today's Progress**: 
+Coded and styled the top part of landing page on codepen
+
+**Improve:** 
+
+*STOP*
+Skipping Days
+Adding th </img> its a block element it does not need a closing tag, bad habit. 
+
+*START*
+Steve Jobs Illustration
+Parralax scrolling
+Make the top section responsive with Media Queries
+
+*REPEAT*
+loging the progress here on #100DaysOfCode and sharing it on twitter. 
+coding at least 1 Hour a day on projects
+Keep learining new things ( add multiple cursors on Atom -CMD + CLick) 
+Trying to stop making things pixel perfect
+
+**Thoughts:** 
+I went back to codepen to make the top section of the landing page, I thought modularizing the landing pages sections would be best, now I need to pass this onto the webpage template I had before. Hopefully it wont break. 
+
+**Link to work:** 
+goo.gl/NHEIbB
