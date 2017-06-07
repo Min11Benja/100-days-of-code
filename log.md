@@ -123,3 +123,41 @@ I went back to codepen to make the top section of the landing page, I thought mo
 
 **Link to work:** 
 goo.gl/NHEIbB
+
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 4: July 05, 2017 
+##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
+**Objective**
+Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
+  So basiclly a landing page, a blog, an about me page, and a contact me page. 
+  
+**Tme**:
+Start: 8:00 pm
+End: 9:10 pm
+
+**Today's Progress**: 
+Made yesterdays section responsive with media queries
+Translated text into Spanish
+
+**Improve:** 
+
+*STOP*
+Using Code Pen
+
+*START*
+Coding in Atom
+Steve Jobs Illustration
+Parralax scrolling
+
+*REPEAT*
+loging the progress here on #100DaysOfCode and sharing it on twitter. 
+coding at least 1 Hour a day on projects
+Keep learining new things ( I got a better hang of media queries ) 
+Trying to stop making things pixel perfect
+
+**Thoughts:** 
+CodePen is nice to play and tweak around, but I guess I should start getting the hang of using Atom and folders and stuff for more ambitious projects. So I guess tomorrow i will migrate the stuff ive done in codepen into the min11benja live website and then work in Atom from now on. 
+
+**Link to work:** 
+CodePen Responsive top Section of min11benja
+goo.gl/Gp33D0
