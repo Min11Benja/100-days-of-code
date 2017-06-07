@@ -125,7 +125,7 @@ I went back to codepen to make the top section of the landing page, I thought mo
 goo.gl/NHEIbB
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-### Day 4: July 05, 2017 
+### Day 4: July 06, 2017 
 ##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
 **Objective**
 Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
