@@ -161,3 +161,43 @@ CodePen is nice to play and tweak around, but I guess I should start getting the
 **Link to work:** 
 CodePen Responsive top Section of min11benja
 goo.gl/Gp33D0
+
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 5: July 12, 2017 
+##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
+**Objective**
+Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
+  So basiclly a landing page, a blog, an about me page, and a contact me page. 
+  
+**Tme**:
+Start: 6:00 pm
+End: 7:00 pm
+
+**Today's Progress**: 
+Setup a developer enviroment, so as to stop using CodePen.
+I made a local host with node.js 
+Made some simple templates in boostrap, and started using harp.js
+
+**Improve:** 
+
+*STOP*
+Procrastinating 
+Skiping Days
+
+*START*
+NavBar & Footer 
+Steve Jobs Illustration
+Parralax scrolling
+
+*REPEAT*
+Coding in Atom
+loging the progress here on #100DaysOfCode and sharing it on twitter. 
+coding at least 1 Hour a day on projects
+Keep learining new things ( I got a better hang of media queries ) 
+Trying to stop making things pixel perfect
+
+**Thoughts:** 
+I found a neat book on how to setup a development enviroment, by Matt Lambert. I used it to setup this projects boilerplates. 
+
+**Link to work:** 
+Will publish changes in live website tommorow (www.min11bnja.com) 
