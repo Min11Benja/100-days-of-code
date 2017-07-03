@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: July 02, 2017 
+### Day 1: June 02, 2017 
 ##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
 **Objective**
 Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
@@ -48,7 +48,7 @@ https://www.dropbox.com/s/0eg9f5qb1725qhm/IMG_20170602_173933595.jpg?dl=0
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-### Day 2: July 03, 2017 
+### Day 2: June 03, 2017 
 ##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
 **Objective**
 Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
@@ -88,7 +88,7 @@ So stop trying to make it perfect
 **Link to work:** 
 www.min11benja.com
 ---------------------------------------------------------------------------------------------------------------------------------------
-### Day 3: July 05, 2017 
+### Day 3: June 05, 2017 
 ##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
 **Objective**
 Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
@@ -125,7 +125,7 @@ I went back to codepen to make the top section of the landing page, I thought mo
 goo.gl/NHEIbB
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-### Day 4: July 06, 2017 
+### Day 4: June 06, 2017 
 ##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
 **Objective**
 Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
@@ -163,7 +163,7 @@ CodePen Responsive top Section of min11benja
 goo.gl/Gp33D0
 
 ---------------------------------------------------------------------------------------------------------------------------------------
-### Day 5: July 12, 2017 
+### Day 5: June 12, 2017 
 ##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
 **Objective**
 Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
@@ -201,3 +201,40 @@ I found a neat book on how to setup a development enviroment, by Matt Lambert. I
 
 **Link to work:** 
 Will publish changes in live website tommorow (www.min11bnja.com) 
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 6: July 2, 2017 
+##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
+**Objective**
+Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
+  So basiclly a landing page, a blog, an about me page, and a contact me page. 
+  
+**Tme**:
+Start: 5:00 pm
+End: 7:00 pm
+
+**Today's Progress**: 
+Coded My Blog Boilerplate Template
+
+**Improve:** 
+
+*STOP*
+Procrastinating 
+Skiping Days
+
+*START*
+Tablet and Screen Media Queries for Blog Article
+Blog Catalougue Page
+
+*REPEAT*
+Coding in Atom/Sublime
+loging the progress here on #100DaysOfCode and sharing it on twitter. 
+coding at least 1 Hour a day on projects
+Keep learining new things
+Trying to stop making things pixel perfect
+
+**Thoughts:** 
+Im really happy the way the blog card like turned out. I was going to use it only for the title, and stick to a more square like design, but I liked it so much that I tried it on the article and it looks like a messague feed. Its pretty cool. 
+
+**Link to work:** 
+Will publish changes in live website:
+https://goo.gl/5RPEqu
