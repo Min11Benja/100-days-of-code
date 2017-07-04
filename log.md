@@ -238,3 +238,41 @@ Im really happy the way the blog card like turned out. I was going to use it onl
 **Link to work:** 
 Will publish changes in live website:
 https://goo.gl/5RPEqu
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 7: July 3, 2017 
+##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
+**Objective**
+Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
+  So basiclly a landing page, a blog, an about me page, and a contact me page. 
+  
+**Tme**:
+Start: 7:00 pm
+End: 10:00 pm
+
+**Today's Progress**: 
+Coded My Blog Boilerplate Template
+
+**Improve:** 
+
+*STOP*
+Procrastinating 
+
+*START*
+Fix Quote Issue on live site
+Add the Tweet to Unlock
+Code the Tablet and Desktop Media Queries for Blog Article
+Code the Blog Catalougue Page
+
+*REPEAT*
+Coding in Atom/Sublime
+loging the progress here on #100DaysOfCode and sharing it on twitter. 
+coding at least 1 Hour a day on projects
+Keep learining new things
+Trying to stop making things pixel perfect
+
+**Thoughts:** 
+I wanted to make it responsive but I had to redo the story, I also added an embeded reposnive like video that keeps the aspecto ratio. Wich is cool. I added a quote part but for some reason it wont show up on the live version. It works just fine on my pc. =/ 
+
+**Link to work:** 
+Will publish changes in live website:
+https://goo.gl/5RPEqu
