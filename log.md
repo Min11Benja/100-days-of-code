@@ -315,3 +315,44 @@ I started a bit on the landing page, and re did it like 4 times. Then I took som
 **Link to work:** 
 Will publish changes in live website:
 www.min11benja.com/index.html
+
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 9: July 5, 2017 
+##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
+**Objective**
+Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
+  So basiclly a landing page, a blog, an about me page, and a contact me page. 
+  
+**Tme**:
+Start: 12:00 am
+End: 4:00 pm
+
+**Today's Progress**: 
+Made the blog cards for the landing page. 
+
+**Improve:** 
+
+*STOP*
+Looking up others design and code
+
+*START*
+Breakign up things and doing them yourself
+Fb Login
+Add the Tweet to Unlock
+Code the Tablet and Desktop Media Queries for Blog Article
+Code the Blog Catalougue Page
+
+*REPEAT*
+Coding in Brackets
+loging the progress here on #100DaysOfCode and sharing it on twitter. 
+coding at least 1 Hour a day on projects
+Keep learining new things
+Trying to stop making things pixel perfect
+
+**Thoughts:** 
+I was almost copied paste someone elses blog, but I tried doing my own version, even though its really ugly its still better because I learned how it works instead of just copying someone else and being al meh about it. 
+
+**Link to work:** 
+Will publish changes in live website:
+www.min11benja.com/index.html
+
