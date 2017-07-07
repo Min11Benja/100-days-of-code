@@ -356,3 +356,34 @@ I was almost copied paste someone elses blog, but I tried doing my own version, 
 Will publish changes in live website:
 www.min11benja.com/index.html
 
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 10: July 6, 2017 
+##### PROJECT MIN11BENJA PORTFOLIO/YOUTUBE-BLOG
+**Objective**
+Have my own personal webpage where i can share the projects im doing, writing the steps i take and how i went around each challenge, through my blog, have a section to contact me (on my terms) and a section where i can share more about myself. 
+  So basiclly a landing page, a blog, an about me page, and a contact me page. 
+  
+**Tme**:
+Start: 11:00 am
+End: 3:00 pm
+
+**Today's Progress**: 
+Failed to get the fb login to work.  
+
+**Improve:** 
+
+*STOP*
+giving up
+
+*START*
+asking for help
+
+*REPEAT*
+trying different things
+
+**Thoughts:** 
+ Tried on live website, on a localhost, I keeped getting the same error.I will ask someon who has done a facebook login and see if he can help. 
+
+**Link to work:** 
+Will publish changes in live website:
+www.min11benja.com/index.html
