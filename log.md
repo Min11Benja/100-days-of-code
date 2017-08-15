@@ -387,3 +387,42 @@ trying different things
 **Link to work:** 
 Will publish changes in live website:
 www.min11benja.com/index.html
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 11: August 14, 2017 
+##### PROJECT Get To know CSS Grid
+**Objective**
+Get the foundations of CSS Grid
+  
+**Tme**:
+Start: 8:00 pm
+End: 9:44 pm
+
+**Today's Progress**: 
+I now know hos to setup a Grid
+I now know how to edit widths and heights of grids
+I now know how to make them grid bozes responsive
+I now know how to move them around bu editing the order
+
+**Improve:** 
+
+*STOP*
+Skiping days for weeks, lol 
+
+*START*
+Placing items on grid part
+
+*REPEAT*
+Code every Day
+
+**Thoughts:** 
+Im back at it and after a couple of weeks, of no coding I found out about this little gem CSS Grid and im converted, I want to get the foundatiosn right so I can start making awesome UI!
+
+**Link to work:** 
+Seting up Grid CodePen
+https://goo.gl/tz4aLh
+Making it responsive CodePen
+https://goo.gl/enPuXN
+Making Code a bit tidy-er with repeat
+https://goo.gl/Cjswfs
+Autoplacements
+https://goo.gl/nZxmxF
