@@ -398,7 +398,7 @@ Start: 8:00 pm
 End: 9:44 pm
 
 **Today's Progress**: 
-I now know hos to setup a Grid
+I now know how to setup a Grid
 I now know how to edit widths and heights of grids
 I now know how to make them grid bozes responsive
 I now know how to move them around bu editing the order
@@ -426,3 +426,35 @@ Making Code a bit tidy-er with repeat
 https://goo.gl/Cjswfs
 Autoplacements
 https://goo.gl/nZxmxF
+
+---------------------------------------------------------------------------------------------------------------------------------------
+### Day 12: August 15, 2017 
+##### PROJECT Get To know CSS Grid
+**Objective**
+Get the foundations of CSS Grid
+  
+**Tme**:
+Start: 1:00 pm
+End: 2:25 pm
+
+**Today's Progress**: 
+I know how to use line based placements on css grid 
+I made 11 UI Tiles using this method
+
+**Improve:** 
+I got stuck on the 12th tile, I couldnot figure out how to change the height on specific divs. I will look into it tommorowa lesson.
+
+*STOP*
+Forking to write less code
+
+*START*
+Writing code from scratch to improve sintax memorization
+
+*REPEAT*
+Code every Day
+
+**Thoughts:** 
+CSS Grid is nice, I think I am starting to get the hang of it. Today I played around with the little knoledge I gained yesterday and made 11 diferent UI tiles pretty fast. I will try to make even more complex UI tommorow.
+
+**Link to work:** 
+https://codepen.io/Min11Benja/pens/popular/6/
